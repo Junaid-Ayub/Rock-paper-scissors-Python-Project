@@ -23,4 +23,3 @@ This is a **fun and interactive** game where you battle against the computer in 
    ```sh
    git clone https://github.com/yourusername/rock-paper-scissors.git
    cd rock-paper-scissors
-# Rock-paper-scissors-Python-Project
